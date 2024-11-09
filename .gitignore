@@ -1,3 +1,13 @@
+# mine
+
+glove.twitter.27B.100d.txt
+GoogleNews-vectors-negative300.bin
+GoogleNews-vectors-negative300.bin.gz
+merged_mbti.csv
+processed_mbti.csv
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
