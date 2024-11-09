@@ -98,9 +98,7 @@ NoteBooks
     ├── 0_Start_Learning_Transformer.md
     ├── 1_Data_Exploration.ipynb
     ├── 2_Personality_Prediction.ipynb
-    ├── 2.1_Test_Personality_Prediction.ipynb
-    ├── 3_Emotion-Detection.ipynb
-    └── 3.1_Test_Emotion-Detection.ipynb
+    └── 3_Emotion-Detection.ipynb
 SRC
     └── Data
         ├── Essays-MBTI
